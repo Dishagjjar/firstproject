@@ -1,0 +1,64 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+p{
+    background-color: yellow;
+}
+.abc{
+    background-color: aqua;
+    color: red;  
+    border: solid black 2px;
+    width: 100px;
+    padding: 20px 20px 20px 20px;
+    margin: 0px 0px 0px 500px;
+}
+
+#xyz{
+     background-color: blueviolet;
+    color: brown; 
+    border: solid black 2px;
+    width: 100px;
+    padding: 20px 20px 20px 20px;
+    margin: 0px 0px 0px 500px;
+}
+/* *{
+    background-color: orange;
+
+} */
+
+.form{
+        border: solid black 2px;
+        width: fit-content;
+        padding: 10px;
+        line-height: 40px;
+        margin-left: 40%;
+        background-color: aqua;
+        box-shadow: 10px 10px 100px;
+        margin-bottom: 50px;
+
+}
+
+.form:hover{
+    scale: 1.2;
+    background-color: aquamarine;
+}
+
+.drs{
+
+      border: solid rgb(0, 0, 0) 2px;
+        width: fit-content;
+        padding: 20px;
+        line-height: 30px;
+        margin-left: 50%;
+        background-color: rgb(255, 0, 0);
+        box-shadow: 20px 20px 100px;
+        margin-bottom: 50px;
+}
+
+.drs:hover{
+    scale: 1,2;
+    background-color: rgb(183, 255, 0);
+}
+
+

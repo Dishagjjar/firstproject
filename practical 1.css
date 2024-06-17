@@ -1,0 +1,319 @@
+.i{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.r{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: orange;
+    display: flex;
+    flex-direction: column;
+}
+.t{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.a{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+}
+
+.b{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+}
+.c{
+    height: 30px;
+    width:30px;
+    border: solid black 2px;
+    background-color:bisque;
+}
+
+.r1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    
+
+}
+.r2{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.l{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+    margin-left: 20px;
+}
+
+
+.o{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+     margin-left: 20px;
+}
+.v{
+    height: 30px;
+    width:30px;
+    border: solid black 2px;
+    background-color:bisque;
+    margin-left: 20px;
+}
+
+.e{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+    margin-left: 20px;
+}
+
+.w{
+    height: 30px;
+    width:30px;
+    border: solid black 2px;
+    background-color:bisque;
+}
+
+.b{
+    height: 30px;
+    width: 30pxx;
+    border: solid black 2px;
+    background-color:bisque;
+}
+.row1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.s{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.DC{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+}
+.OP{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+}
+.row2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+
+}
+
+.AB{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.CD{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.EF{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.CN{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+}
+
+.BN{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+}
+.NB{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+}
+
+.VC{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+}
+.TY{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+}
+
+.RB{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+}
+
+
+.row3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50PX;
+}
+.x{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.y{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.z{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.q{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.WE{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+}
+.ER{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+}
+.XC{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+}
+.ZS{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+}
+.QW{
+    height: 30px;
+    width: 30px;
+    border: solid black 2px;
+    background-color:bisque;
+}
+
+
+.row4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50PX;
+}

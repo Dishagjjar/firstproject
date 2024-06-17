@@ -1,0 +1,134 @@
+.a{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: yellow;
+}
+
+.b{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: yellow;
+}
+
+.c{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: yellow;
+}
+
+.row1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+
+
+.e{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: yellow;
+    margin-top: 50px;
+}
+
+.f{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: yellow;
+    margin-top: 50px;
+}
+
+.g{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: yellow;
+    margin-top: 50px;
+}
+
+.row2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+
+.x{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: yellow;
+    margin-top: 50px;
+}
+
+.y{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: yellow;
+    margin-top: 50px;
+}
+
+.z{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: yellow;
+    margin-top: 50px;
+}
+
+.row3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+    
+.d{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: yellow;
+    margin-top: 50px;
+}
+
+.r{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: yellow;
+    margin-top: 50px;
+}
+
+.row4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+
+
+}
+
+.m{
+    height: 150px;
+    width: 150px;
+    border: solid black 2px;
+    background-color: yellow;
+    margin-top: 50px;
+}
+
+.row5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+
+
+}
